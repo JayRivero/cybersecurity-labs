@@ -60,9 +60,9 @@
   
 <h2>📂 Repository Structure</h2>
 
-<p>/TryHackMe</p>
-<p>/Offensive-Security-Intro</p>
-<p>README.md ← this file</p>
+<p>/TryHackMe/</p>
+<p>/Offensive-Security-Intro/</p>
+<p>README.md</p>
     
 <h2>📝 Next Steps</h2>
 
